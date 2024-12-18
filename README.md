@@ -8,7 +8,7 @@ If you'd like to hire me, I am currently looking for remote employment. You reac
 
 GitHub Trophies
 ---
-[![trophy](https://github-profile-trophy.vercel.app/?username=speak2erase&theme=gitdimmed&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=melody-rs&theme=gitdimmed&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
 ---
 
 My projects
@@ -18,12 +18,12 @@ My projects
 
 Coding stats
 ---
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Speak2Erase&date_format=M%20j%5B%2C%20Y%5D&theme=dark&count_private=true&include_all_commits=true)](https://github.com/Speak2Erase)
-[![Speak2Erase's GitHub stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=Speak2Erase&count_private=true&include_all_commits=true&show_icons=true&theme=dark)](https://github.com/Speak2Erase)
-[![speak2erase's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Speak2Erase&theme=dark&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=melody-rs&date_format=M%20j%5B%2C%20Y%5D&theme=dark&count_private=true&include_all_commits=true)](https://github.com/melody-rs)
+[![melody-rs's GitHub stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=melody-rs&count_private=true&include_all_commits=true&show_icons=true&theme=dark)](https://github.com/melody-rs)
+[![melody-rs's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=melody-rs&theme=dark&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 Snek
 ---
-![snek gif](https://github.com/Speak2Erase/Speak2Erase/blob/output/github-snake-dark.svg)
+![snek gif](https://github.com/melody-rs/melody-rs/blob/output/github-snake-dark.svg)
 ---
