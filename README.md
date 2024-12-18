@@ -20,7 +20,7 @@ Coding stats
 ---
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=melody-rs&date_format=M%20j%5B%2C%20Y%5D&theme=dark&count_private=true&include_all_commits=true)](https://github.com/melody-rs)
 [![melody-rs's GitHub stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=melody-rs&count_private=true&include_all_commits=true&show_icons=true&theme=dark)](https://github.com/melody-rs)
-[![melody-rs's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=melody-rs&theme=dark&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![melody-rs's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=melody_rs&theme=dark&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 Snek
