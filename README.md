@@ -1,7 +1,7 @@
 Hi, I'm **Melody**!
 
 I code in a *lot* of languages and can generally pick them up quickly. I'm best at Rust and C, but I started with Ruby. 
-Lately I've been trying to learn web development but cannot wrap my head around CSS.. I'm ok at JavaScript, though!
+Lately I've been getting into web development and it drives me up the wall. I hate javascript and I ESPECIALLY hate the tooling surrounding it.
 
 My main focus is Luminol and OneShot: Fading Memory! I generally rotate my focus on projects every few weeks to avoid burnout '^^
 If you'd like to hire me, I am currently looking for remote employment. You reach out to me at the email on my profile!
