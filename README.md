@@ -6,6 +6,15 @@ Lately I've been getting into web development and it drives me up the wall. I ha
 My main focus is Luminol and OneShot: Fading Memory! I generally rotate my focus on projects every few weeks to avoid burnout '^^
 If you'd like to hire me, I am currently looking for remote employment. You reach out to me at the email on my profile!
 
+|Experience Level|General|Scripting|Web|Tools|
+|-|--|--|--|--|
+|Amazing|<img width=32px src="https://github.com/melody-rs/melody-rs/blob/icons/rust.svg">|||<img width=32px src="https://github.com/melody-rs/melody-rs/blob/icons/toml.svg">|
+|Good|<img width=32px src="https://github.com/melody-rs/melody-rs/blob/icons/c.svg">||<img width=32px src="https://github.com/melody-rs/melody-rs/blob/icons/javascript.svg">|<img width=32px src="https://github.com/melody-rs/melody-rs/blob/icons/cmake.svg">|
+|Ok|<img width=32px src="https://github.com/melody-rs/melody-rs/blob/icons/cplusplus.svg">|<img width=32px src="https://github.com/melody-rs/melody-rs/blob/icons/ruby.svg">|<img width=32px src="https://github.com/melody-rs/melody-rs/blob/icons/html5/svg">||
+|Meh|<img width=32px src="https://github.com/melody-rs/melody-rs/blob/icons/dotnet.svg">|<img width=32px src="https://github.com/melody-rs/melody-rs/blob/icons/python.svg">|<img width=32px src="https://github.com/melody-rs/melody-rs/blob/icons/css.svg">||
+|Poor|<img width=32px src="https://github.com/melody-rs/melody-rs/blob/icons/openjdk.svg">|<img width=32px src="https://github.com/melody-rs/melody-rs/blob/icons/lua.svg">||<img width=32px src="https://github.com/melody-rs/melody-rs/blob/icons/vite.svg">|
+
+
 GitHub Trophies
 ---
 [![trophy](https://github-profile-trophy.vercel.app/?username=melody-rs&theme=gitdimmed&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
