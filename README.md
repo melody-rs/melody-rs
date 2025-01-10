@@ -8,11 +8,11 @@ If you'd like to hire me, I am currently looking for remote employment. You reac
 
 |Experience Level|General|Scripting|Web|Tools|
 |-|--|--|--|--|
-|Amazing|<img width=32px src="https://github.com/melody-rs/melody-rs/blob/icons/rust.svg">|||<img width=32px src="https://github.com/melody-rs/melody-rs/blob/icons/toml.svg">|
-|Good|<img width=32px src="https://github.com/melody-rs/melody-rs/blob/icons/c.svg">||<img width=32px src="https://github.com/melody-rs/melody-rs/blob/icons/javascript.svg">|<img width=32px src="https://github.com/melody-rs/melody-rs/blob/icons/cmake.svg">|
-|Ok|<img width=32px src="https://github.com/melody-rs/melody-rs/blob/icons/cplusplus.svg">|<img width=32px src="https://github.com/melody-rs/melody-rs/blob/icons/ruby.svg">|<img width=32px src="https://github.com/melody-rs/melody-rs/blob/icons/html5/svg">||
-|Meh|<img width=32px src="https://github.com/melody-rs/melody-rs/blob/icons/dotnet.svg">|<img width=32px src="https://github.com/melody-rs/melody-rs/blob/icons/python.svg">|<img width=32px src="https://github.com/melody-rs/melody-rs/blob/icons/css.svg">||
-|Poor|<img width=32px src="https://github.com/melody-rs/melody-rs/blob/icons/openjdk.svg">|<img width=32px src="https://github.com/melody-rs/melody-rs/blob/icons/lua.svg">||<img width=32px src="https://github.com/melody-rs/melody-rs/blob/icons/vite.svg">|
+|Amazing|<img width=32px src="https://raw.githubusercontent.com/melody-rs/melody-rs/refs/heads/main/icons/rust.svg">|||<img width=32px src="https://raw.githubusercontent.com/melody-rs/melody-rs/refs/heads/main/icons/toml.svg">|
+|Good|<img width=32px src="https://raw.githubusercontent.com/melody-rs/melody-rs/refs/heads/main/icons/c.svg">||<img width=32px src="https://raw.githubusercontent.com/melody-rs/melody-rs/refs/heads/main/icons/javascript.svg">|<img width=32px src="https://raw.githubusercontent.com/melody-rs/melody-rs/refs/heads/main/icons/cmake.svg">|
+|Ok|<img width=32px src="https://raw.githubusercontent.com/melody-rs/melody-rs/refs/heads/main/icons/cplusplus.svg">|<img width=32px src="https://raw.githubusercontent.com/melody-rs/melody-rs/refs/heads/main/icons/ruby.svg">|<img width=32px src="https://raw.githubusercontent.com/melody-rs/melody-rs/refs/heads/main/icons/html5/svg">||
+|Meh|<img width=32px src="https://raw.githubusercontent.com/melody-rs/melody-rs/refs/heads/main/icons/dotnet.svg">|<img width=32px src="https://raw.githubusercontent.com/melody-rs/melody-rs/refs/heads/main/icons/python.svg">|<img width=32px src="https://raw.githubusercontent.com/melody-rs/melody-rs/refs/heads/main/icons/css.svg">||
+|Poor|<img width=32px src="https://raw.githubusercontent.com/melody-rs/melody-rs/refs/heads/main/icons/openjdk.svg">|<img width=32px src="https://raw.githubusercontent.com/melody-rs/melody-rs/refs/heads/main/icons/lua.svg">||<img width=32px src="https://raw.githubusercontent.com/melody-rs/melody-rs/refs/heads/main/icons/vite.svg">|
 
 
 GitHub Trophies
