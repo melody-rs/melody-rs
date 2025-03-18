@@ -1,10 +1,10 @@
-Hi, I'm **Melody**!
+Hi, I'm **Melody**! My main focus currently is Luminol and OneShot: Fading Memory, and a lot of my other projects are related to them. I am starting to move away from Fading Memory and RPG Maker so I can work on my own projects in the future!
 
-I code in a *lot* of languages and can generally pick them up quickly. I'm best at Rust and C, but I started with Ruby. 
-Lately I've been getting into web development and it drives me up the wall. I hate javascript and I ESPECIALLY hate the tooling surrounding it.
+#### If you'd like to hire me, I am currently looking for remote employment. You can reach out to me at the email on my profile!
 
-My main focus is Luminol and OneShot: Fading Memory! I generally rotate my focus on projects every few weeks to avoid burnout '^^
-If you'd like to hire me, I am currently looking for remote employment. You can reach out to me at the email on my profile!
+I code in a *lot* of languages and can generally pick them up quickly. I'm best at Rust and C, but I started with Ruby! 
+I don't usually pick up/work with high level languages, my experience with C/Rust leans me towards a programming style that makes high level languages frustrating.
+Lately I've been getting into web development! I'm not particularly enjoying it, though...
 
 |Experience Level|General|Scripting|Web|Tools|
 |-|--|--|--|--|
@@ -13,7 +13,6 @@ If you'd like to hire me, I am currently looking for remote employment. You can 
 |Ok|<img width=32px src="https://raw.githubusercontent.com/melody-rs/melody-rs/refs/heads/main/icons/cplusplus.svg">|<img width=32px src="https://raw.githubusercontent.com/melody-rs/melody-rs/refs/heads/main/icons/ruby.svg">|<img width=32px src="https://raw.githubusercontent.com/melody-rs/melody-rs/refs/heads/main/icons/html5.svg">||
 |Meh|<img width=32px src="https://raw.githubusercontent.com/melody-rs/melody-rs/refs/heads/main/icons/dotnet.svg">|<img width=32px src="https://raw.githubusercontent.com/melody-rs/melody-rs/refs/heads/main/icons/python.svg">|<img width=32px src="https://raw.githubusercontent.com/melody-rs/melody-rs/refs/heads/main/icons/css.svg">||
 |Poor|<img width=32px src="https://raw.githubusercontent.com/melody-rs/melody-rs/refs/heads/main/icons/openjdk.svg">|<img width=32px src="https://raw.githubusercontent.com/melody-rs/melody-rs/refs/heads/main/icons/lua.svg">||<img width=32px src="https://raw.githubusercontent.com/melody-rs/melody-rs/refs/heads/main/icons/vite.svg">|
-
 
 GitHub Trophies
 ---
