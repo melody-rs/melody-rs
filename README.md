@@ -1,4 +1,4 @@
-Hi, I'm **Melody**! My main focus currently is Luminol and OneShot: Fading Memory, and a lot of my other projects are related to them. I am starting to move away from Fading Memory and RPG Maker so I can work on my own projects in the future!
+Hi, I'm **Melody**! I've been coding for over 7 years now, and I'm quite experienced. My main focus currently is Luminol and OneShot: Fading Memory, and a lot of my other projects are related to them. I am starting to move away from Fading Memory and RPG Maker so I can work on my own projects in the future!
 
 #### If you'd like to hire me, I am currently looking for remote employment. You can reach out to me at the email on my profile!
 
