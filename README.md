@@ -1,10 +1,22 @@
-Hi, I'm **Melody**! I've been coding for over 7 years now, and I'm quite experienced. My main focus currently is Luminol and OneShot: Fading Memory, and a lot of my other projects are related to them. I am starting to move away from Fading Memory and RPG Maker so I can work on my own projects in the future!
+Hi, I'm **Melody**! I've been coding for over 7 years now, and I'm quite experienced.
 
-#### If you'd like to hire me, I am currently looking for remote employment. You can reach out to me at the email on my profile!
+I'm currently working on [Hexatronic](https://eternabyte.itch.io/hexahetronic) and dr3ds (a WIP 3ds Undertale/Deltarune port!)
+
+### What about your OneShot projects?
+
+Burnount, awful code, and the OneShot community have all pushed me to stop working on Luminol and OneShot: Fading Memory. 
+While I might occasionally contribute to them, I don't want to be involved with anything OneShot related anymore.
+
+### Hiring
+
+If you'd like to hire me, I am currently looking for remote employment. You can reach out to me at the email on my profile!
 
 I code in a *lot* of languages and can generally pick them up quickly. I'm best at Rust and C, but I started with Ruby! 
-I don't usually pick up/work with high level languages, my experience with C/Rust leans me towards a programming style that makes high level languages frustrating.
-Lately I've been getting into web development! I'm not particularly enjoying it, though...
+I don't usually work with high level languages, my experience with C/Rust makes them frustrating.
+Languages like C# are exceptions to that though!
+
+Aside from the language, I can work in practically any field- I have the most experience in anything related to game development.
+I've written entire [game engines](https://github.com/Astrabit-ST/wormhole) from scratch before!
 
 |Experience Level|General|Scripting|Web|Tools|
 |-|--|--|--|--|
