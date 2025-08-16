@@ -18,14 +18,6 @@ Languages like C# are exceptions to that though!
 Aside from the language, I can work in practically any field- I have the most experience in anything related to game development.
 I've written entire [game engines](https://github.com/Astrabit-ST/wormhole) from scratch before!
 
-|Experience Level|General|Scripting|Web|Tools|
-|-|--|--|--|--|
-|Amazing|<img width=32px src="https://raw.githubusercontent.com/melody-rs/melody-rs/refs/heads/main/icons/rust.svg">|||<img width=32px src="https://raw.githubusercontent.com/melody-rs/melody-rs/refs/heads/main/icons/toml.svg">|
-|Good|<img width=32px src="https://raw.githubusercontent.com/melody-rs/melody-rs/refs/heads/main/icons/c.svg">||<img width=32px src="https://raw.githubusercontent.com/melody-rs/melody-rs/refs/heads/main/icons/javascript.svg">|<img width=32px src="https://raw.githubusercontent.com/melody-rs/melody-rs/refs/heads/main/icons/cmake.svg">|
-|Ok|<img width=32px src="https://raw.githubusercontent.com/melody-rs/melody-rs/refs/heads/main/icons/cplusplus.svg">|<img width=32px src="https://raw.githubusercontent.com/melody-rs/melody-rs/refs/heads/main/icons/ruby.svg">|<img width=32px src="https://raw.githubusercontent.com/melody-rs/melody-rs/refs/heads/main/icons/html5.svg">||
-|Meh|<img width=32px src="https://raw.githubusercontent.com/melody-rs/melody-rs/refs/heads/main/icons/dotnet.svg">|<img width=32px src="https://raw.githubusercontent.com/melody-rs/melody-rs/refs/heads/main/icons/python.svg">|<img width=32px src="https://raw.githubusercontent.com/melody-rs/melody-rs/refs/heads/main/icons/css.svg">||
-|Poor|<img width=32px src="https://raw.githubusercontent.com/melody-rs/melody-rs/refs/heads/main/icons/openjdk.svg">|<img width=32px src="https://raw.githubusercontent.com/melody-rs/melody-rs/refs/heads/main/icons/lua.svg">||<img width=32px src="https://raw.githubusercontent.com/melody-rs/melody-rs/refs/heads/main/icons/vite.svg">|
-
 GitHub Trophies
 ---
 [![trophy](https://github-profile-trophy.vercel.app/?username=melody-rs&theme=gitdimmed&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
