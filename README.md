@@ -16,7 +16,7 @@ I don't usually work with high level languages, my experience with C/Rust makes 
 Languages like C# are exceptions to that though!
 
 Aside from the language, I can work in practically any field- I have the most experience in anything related to game development.
-I've written entire [game engines](https://github.com/Astrabit-ST/wormhole) from scratch before!
+I've written entire [game](https://github.com/callistoAshley/yuri-jam24) [engines](https://github.com/Astrabit-ST/wormhole) from scratch before!
 
 GitHub Trophies
 ---
