@@ -18,16 +18,6 @@ Languages like C# are exceptions to that though!
 Aside from the language, I can work in practically any field- I have the most experience in anything related to game development.
 I've written entire [game](https://github.com/callistoAshley/yuri-jam24) [engines](https://github.com/Astrabit-ST/wormhole) from scratch before!
 
-GitHub Trophies
----
-[![trophy](https://github-profile-trophy.vercel.app/?username=melody-rs&theme=gitdimmed&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
----
-
-My projects
----
-[![Luminol](https://github-readme-stats.vercel.app/api/pin/?username=Astrabit-ST&repo=Luminol&theme=dark)](https://github.com/Astrabit-ST/Luminol)
----
-
 Coding stats
 ---
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=melody-rs&date_format=M%20j%5B%2C%20Y%5D&theme=dark&count_private=true&include_all_commits=true)](https://github.com/melody-rs)
