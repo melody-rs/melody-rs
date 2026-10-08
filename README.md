@@ -1,24 +1,14 @@
 Hi, I'm **Melody**! I've been coding for over 7 years now, and I'm quite experienced.
 
-I'm currently working on [Hexatronic](https://eternabyte.itch.io/hexahetronic) and dr3ds (a WIP 3ds Undertale/Deltarune port!)
-
-### Slowly moving to https://git.gay/melody-rs!
-
-## What about your OneShot projects?
-
-Burnount, awful code, and the OneShot community have all pushed me to stop working on Luminol and OneShot: Fading Memory. 
-While I might occasionally contribute to them, I don't want to be involved with anything OneShot related anymore.
+I'm not super active on GitHub anymore, I'm slowly moving to [git.gay](https://git.gay), [Sourcehut](https://git.sr.ht) and [Codeberg](https://codeberg.org/).
+Apologies if I don't see your issue or pull request right away!
 
 ## Hiring
 
-If you'd like to hire me, I am currently looking for remote employment. You can reach out to me at the email on my profile!
+If you'd like to hire me, I am currently looking for remote employment or in-office positions (USA only). 
+You can reach out to me at [`hiring@melody-is.gay`](mailto:hiring@melody-is.gay)! Feel free to ask for my CV.
 
-I code in a *lot* of languages and can generally pick them up quickly. I'm best at Rust and C, but I started with Ruby! 
-I don't usually work with high level languages, my experience with C/Rust makes them frustrating.
-Languages like C# are exceptions to that though!
-
-Aside from the language, I can work in practically any field- I have the most experience in anything related to game development.
-I've written entire [game](https://github.com/callistoAshley/yuri-jam24) [engines](https://github.com/Astrabit-ST/wormhole) from scratch before!
+(I may ignore your emails if sent to `melody@melody-is.gay`, I get a lot of scam emails at that address. (à la [what happened to arrayref](https://blog.rust-lang.org/2026/09/17/targeted-attacks/)))
 
 Coding stats
 ---
